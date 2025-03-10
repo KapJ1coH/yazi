@@ -1,0 +1,942 @@
+  2025-03-10T16:51:24.796244Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:24.796481Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+C:\Users\timam\AppData\Roaming\yazi\yazi.toml
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:51:39.080685Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:39.080817Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\plugins\smart-past.yazi\init.lua
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:51:40.766173Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:40.766944Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\state\yazi.log
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:51:41.394612Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:41.517413Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:41.633105Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:41.740702Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:41.851788Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:41.957780Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:42.067691Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:42.174572Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:42.284663Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:42.394359Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:42.506568Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:47.557217Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:47.557273Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:47.557399Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\config\yazi.toml
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:51:49.092382Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:51:49.241856Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:53:16.543318Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:53:16.543518Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:53:19.704483Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:53:19.704624Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\config\yazi.toml
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T16:53:20.393245Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:53:23.789271Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T16:53:23.789443Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\plugins\smart-past.yazi\init.lua
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:23.209299Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:23.209450Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:25.126867Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:25.127033Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\state\.dds
+C:\Users\timam\AppData\Roaming\yazi\state\yazi.log
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:28.117078Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:28.117259Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\.flutter
+C:\Users\timam\AppData\Roaming\.flutter_settings
+C:\Users\timam\AppData\Roaming\.flutter_tool_state
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:33.464644Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:33.464853Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\whole class ppts.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 10] Continuous testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] A_B Testing and Hypotheses.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] FeatureToggles.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzz Testing and Chaos Monkey.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzzing with radamsa.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1] SOEN 345 course admin.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing_2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]controlflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]dataflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] GitBisectTesting.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] Testing during development.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 9] Introducing continuous integration.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week3]mutation.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] TDD.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] testpattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] mocking.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] testantipattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox1.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox3.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week7] performanceTest.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:34.655688Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:46.008275Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:49.412960Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:49.612150Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:49.769631Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:50.491034Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:50.645388Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:50.868261Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:50.868676Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\jacoco-0.8.13-20250120.104106-149.zip
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\Q2 review.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\SOEN 345 W25 Course Outline .docx.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:54.351946Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:54.352166Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\comp_results.txt
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\jacoco-part-a.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\jacoco.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\oclover.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\oclover_dashboard.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\q3.xml
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.aux
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.fdb_latexmk
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.fls
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.log
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.out
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.synctex.gz
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.tex
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\SOEN 345 T1_ Test coverage.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\TUT_1_Tymofiy_Kovalenko_40093918.zip
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8.zip
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:03:57.252499Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:58.426275Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:58.605824Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:58.804288Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:58.956287Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:59.129664Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:03:59.324855Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:01.070874Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:01.545486Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:01.974731Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:02.385415Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:02.811016Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:07.326819Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:07.326970Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\.bash_history
+C:\Users\timam\.emulator_console_auth_token
+C:\Users\timam\.gitconfig
+C:\Users\timam\.latexmkrc
+C:\Users\timam\.lesshst
+C:\Users\timam\.viminfo
+C:\Users\timam\edb_pgbouncer.exe
+C:\Users\timam\NTUSER.DAT
+C:\Users\timam\ntuser.dat.LOG1
+C:\Users\timam\ntuser.dat.LOG2
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\timam\ntuser.ini
+C:\Users\timam\pygame_test.py
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:04:46.609931Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:46.610122Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:04:59.130388Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:04:59.130617Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:05:05.161414Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:05:05.161623Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\.flutter
+C:\Users\timam\AppData\Roaming\.flutter_settings
+C:\Users\timam\AppData\Roaming\.flutter_tool_state
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:05:20.548259Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:05:20.548442Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:05:30.610063Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:05:30.610302Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:06:49.223062Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-adapter-0.3.3\src\adapter.rs:108
+
+  2025-03-10T17:06:49.223087Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-adapter-0.3.3\src\adapter.rs:120
+
+  2025-03-10T17:06:49.224675Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-adapter-0.3.3\src\ueberzug.rs:96
+
+  2025-03-10T17:06:49.239561Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:06:49.239801Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\config\yazi.toml
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:06:49.999719Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:06:49.999848Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:06:52.604966Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:06:52.605071Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\state\.dds
+C:\Users\timam\AppData\Roaming\yazi\state\yazi.log
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:06:53.109139Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:16:38.865896Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:16:38.866235Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\scoop\shims\pdfattach.exe
+C:\Users\timam\scoop\shims\pdfattach.shim
+C:\Users\timam\scoop\shims\pdfdetach.exe
+C:\Users\timam\scoop\shims\pdfdetach.shim
+C:\Users\timam\scoop\shims\pdffonts.exe
+C:\Users\timam\scoop\shims\pdffonts.shim
+C:\Users\timam\scoop\shims\pdfimages.exe
+C:\Users\timam\scoop\shims\pdfimages.shim
+C:\Users\timam\scoop\shims\pdfinfo.exe
+C:\Users\timam\scoop\shims\pdfinfo.shim
+C:\Users\timam\scoop\shims\pdfseparate.exe
+C:\Users\timam\scoop\shims\pdfseparate.shim
+C:\Users\timam\scoop\shims\pdftocairo.exe
+C:\Users\timam\scoop\shims\pdftocairo.shim
+C:\Users\timam\scoop\shims\pdftohtml.exe
+C:\Users\timam\scoop\shims\pdftohtml.shim
+C:\Users\timam\scoop\shims\pdftoppm.exe
+C:\Users\timam\scoop\shims\pdftoppm.shim
+C:\Users\timam\scoop\shims\pdftops.exe
+C:\Users\timam\scoop\shims\pdftops.shim
+C:\Users\timam\scoop\shims\pdftotext.exe
+C:\Users\timam\scoop\shims\pdftotext.shim
+C:\Users\timam\scoop\shims\pdfunite.exe
+C:\Users\timam\scoop\shims\pdfunite.shim
+C:\Users\timam\scoop\shims\scoop
+C:\Users\timam\scoop\shims\scoop.cmd
+C:\Users\timam\scoop\shims\scoop.ps1
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:18:25.370847Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:25.371055Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\whole class ppts.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 10] Continuous testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] A_B Testing and Hypotheses.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] FeatureToggles.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzz Testing and Chaos Monkey.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzzing with radamsa.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1] SOEN 345 course admin.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing_2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]controlflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]dataflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] GitBisectTesting.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] Testing during development.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 9] Introducing continuous integration.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week3]mutation.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] TDD.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] testpattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] mocking.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] testantipattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox1.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox3.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week7] performanceTest.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:18:27.918345Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:29.232324Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:29.417435Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:34.022474Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:35.841854Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:35.842094Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\jacoco-0.8.13-20250120.104106-149.zip
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\Q2 review.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\SOEN 345 W25 Course Outline .docx.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:18:55.860915Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:18:55.861528Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Downloads\13 from-a-use-case-to-a-system-sequence-diagram-and-system-operations.pdf
+C:\Users\timam\Downloads\14 from-system-operations-to-operation-contracts.pdf
+C:\Users\timam\Downloads\15 software-quality.pdf
+C:\Users\timam\Downloads\150mm turntable_608bearing.3mf
+C:\Users\timam\Downloads\20240905_164543.jpg
+C:\Users\timam\Downloads\20241012_101309.jpg
+C:\Users\timam\Downloads\20241012_101349.jpg
+C:\Users\timam\Downloads\20241012_101526.jpg
+C:\Users\timam\Downloads\20241214_123458.jpg
+C:\Users\timam\Downloads\20250202_151422 (Small).jpg
+C:\Users\timam\Downloads\20250202_151422.jpg
+C:\Users\timam\Downloads\20250203_175951.jpg
+C:\Users\timam\Downloads\28BYJ-48-n13_f1e1ed35-47e2-4540-b449-85dcafb0fd86.png
+C:\Users\timam\Downloads\341 act1.drawio.png
+C:\Users\timam\Downloads\341 act2.drawio.png
+C:\Users\timam\Downloads\342 lab 3.drawio
+C:\Users\timam\Downloads\342 UML class diagram.png
+C:\Users\timam\Downloads\357 (1).png
+C:\Users\timam\Downloads\357 - Tutorial 3 Report.pdf
+C:\Users\timam\Downloads\357.png
+C:\Users\timam\Downloads\363 a1.sql
+C:\Users\timam\Downloads\4025861654.pdf
+C:\Users\timam\Downloads\a01.pdf
+C:\Users\timam\Downloads\A1-template (1).zip
+C:\Users\timam\Downloads\A1-template.zip
+C:\Users\timam\Downloads\a1_40093918 (1).pdf
+C:\Users\timam\Downloads\a1_40093918.pdf
+C:\Users\timam\Downloads\A2-template.zip
+C:\Users\timam\Downloads\a2_40093918.pdf
+C:\Users\timam\Downloads\aaaaaaaaa.pdf
+C:\Users\timam\Downloads\ai-thinker-0.9.5.2-115200.bin
+C:\Users\timam\Downloads\airless tennis 2.0.3mf
+C:\Users\timam\Downloads\All in One Mod normal weight-351-1-0-1732634943.zip
+C:\Users\timam\Downloads\AMSsliderV2.3mf
+C:\Users\timam\Downloads\app-store-connect-openapi-specification.zip
+C:\Users\timam\Downloads\AppFlowy-0.8.1-windows-x86_64.exe
+C:\Users\timam\Downloads\archive.zip
+C:\Users\timam\Downloads\ArcInstaller.exe
+C:\Users\timam\Downloads\ass3 uml.drawio.png
+C:\Users\timam\Downloads\assignment 5.pdf
+C:\Users\timam\Downloads\assignment1-marks.pdf
+C:\Users\timam\Downloads\assignment_4_40093918.pdf
+C:\Users\timam\Downloads\AutodeskMeshEnabler.msi
+C:\Users\timam\Downloads\bail-020-048-0123888.pdf
+C:\Users\timam\Downloads\Base and pot.3mf
+C:\Users\timam\Downloads\Basic_Platformer.zip
+C:\Users\timam\Downloads\blinds-clips.3mf
+C:\Users\timam\Downloads\Blumentopf.3mf
+C:\Users\timam\Downloads\BOSL2-master.zip
+C:\Users\timam\Downloads\Buildings.pdf
+C:\Users\timam\Downloads\Calibration+cube+XYZ.zip
+C:\Users\timam\Downloads\carbon (1).png
+C:\Users\timam\Downloads\carbon (2).png
+C:\Users\timam\Downloads\carbon.png
+C:\Users\timam\Downloads\Card Member Agreement.pdf
+C:\Users\timam\Downloads\cat litter v2(2).3mf
+C:\Users\timam\Downloads\cat litter v2.3mf
+C:\Users\timam\Downloads\Cat+Toy+Ball+in+Ball+v7.3mf
+C:\Users\timam\Downloads\Class diagram.jpg
+C:\Users\timam\Downloads\classactivity1.pdf
+C:\Users\timam\Downloads\class_activity.java
+C:\Users\timam\Downloads\Compte client_2024-10-10 (1).pdf
+C:\Users\timam\Downloads\Compte client_2024-10-10.pdf
+C:\Users\timam\Downloads\Compte client_2024-11-27.pdf
+C:\Users\timam\Downloads\context diagram 2.0.drawio
+C:\Users\timam\Downloads\coolOrangesrlthreadModeler.msi
+C:\Users\timam\Downloads\Course Outline.pdf
+C:\Users\timam\Downloads\coverage-report.zip
+C:\Users\timam\Downloads\CP210x_Universal_Windows_Driver.zip
+C:\Users\timam\Downloads\Cube02ProfileMini.3mf
+C:\Users\timam\Downloads\cv.pdf
+C:\Users\timam\Downloads\dartsdk-windows-x64-release.zip.sha256sum
+C:\Users\timam\Downloads\desiccant-holder-for-spools.3mf
+C:\Users\timam\Downloads\DesignPatternObserver.docx
+C:\Users\timam\Downloads\desktop.ini
+C:\Users\timam\Downloads\devmanview-x64.zip
+C:\Users\timam\Downloads\Domain Model.drawio.png
+C:\Users\timam\Downloads\Dome.3mf
+C:\Users\timam\Downloads\drive-download-20241203T012054Z-001.zip
+C:\Users\timam\Downloads\Duck.3mf
+C:\Users\timam\Downloads\EGPU V1(2).3mf
+C:\Users\timam\Downloads\EGPU V1.3mf
+C:\Users\timam\Downloads\ENGR 391_ Numerical methods-20241103T184437Z-001.zip
+C:\Users\timam\Downloads\env
+C:\Users\timam\Downloads\ET2800_ET2803_Lite_NA.exe
+C:\Users\timam\Downloads\evan-teboul-40238390 (1).zip
+C:\Users\timam\Downloads\evan-teboul-40238390.zip
+C:\Users\timam\Downloads\f sol.pdf
+C:\Users\timam\Downloads\Facade Vending Machine .stl
+C:\Users\timam\Downloads\Filament+Storage.3mf
+C:\Users\timam\Downloads\Final Class Diagram.jpg
+C:\Users\timam\Downloads\floor_plans.zip
+C:\Users\timam\Downloads\Fluent-Search.exe
+C:\Users\timam\Downloads\FortiClientSetup_7.2.5_x64.exe
+C:\Users\timam\Downloads\FortiClientVPNOnlineInstaller.exe
+C:\Users\timam\Downloads\Full Insert Assembly.3mf
+C:\Users\timam\Downloads\FullDrierPETG.3mf
+C:\Users\timam\Downloads\FullDrierPETG_stls.zip
+C:\Users\timam\Downloads\Fusion Client Downloader (1).exe
+C:\Users\timam\Downloads\Fusion Client Downloader.exe
+C:\Users\timam\Downloads\games.csv.zip
+C:\Users\timam\Downloads\Gewürzregal_V2_P1S.3mf
+C:\Users\timam\Downloads\git-lfs-windows-v3.6.0.exe
+C:\Users\timam\Downloads\Hall-8.png
+C:\Users\timam\Downloads\Hall-9.png
+C:\Users\timam\Downloads\homework 2 and 3 40093918.pdf
+C:\Users\timam\Downloads\Home_security_system.drawio.png
+C:\Users\timam\Downloads\image.png
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:18.117792Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:18.117967Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\.bash_history
+C:\Users\timam\.emulator_console_auth_token
+C:\Users\timam\.gitconfig
+C:\Users\timam\.latexmkrc
+C:\Users\timam\.lesshst
+C:\Users\timam\.viminfo
+C:\Users\timam\edb_pgbouncer.exe
+C:\Users\timam\NTUSER.DAT
+C:\Users\timam\ntuser.dat.LOG1
+C:\Users\timam\ntuser.dat.LOG2
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\timam\NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\timam\ntuser.ini
+C:\Users\timam\pygame_test.py
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:27.805953Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:27.806138Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\.flutter
+C:\Users\timam\AppData\Roaming\.flutter_settings
+C:\Users\timam\AppData\Roaming\.flutter_tool_state
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:46.503748Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:46.503927Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\README.md
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:47.835252Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:49.213797Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:49.416139Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:49.586735Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:50.744779Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:53.789696Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:53.789915Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\state\.dds
+C:\Users\timam\AppData\Roaming\yazi\state\yazi.log
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:54.837669Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:55.077161Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:55.947146Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:55.947301Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\AppData\Roaming\yazi\config\yazi.toml
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:19:56.353090Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:56.541467Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:19:57.440498Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:22:58.297406Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:22:58.297602Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Program Files\Git\cmd\aslr-manager.ps1
+C:\Program Files\Git\cmd\git-gui.exe
+C:\Program Files\Git\cmd\git-lfs.exe
+C:\Program Files\Git\cmd\git-receive-pack.exe
+C:\Program Files\Git\cmd\git-upload-pack.exe
+C:\Program Files\Git\cmd\git.exe
+C:\Program Files\Git\cmd\gitk.exe
+C:\Program Files\Git\cmd\scalar.exe
+C:\Program Files\Git\cmd\start-ssh-agent.cmd
+C:\Program Files\Git\cmd\start-ssh-pageant.cmd
+C:\Program Files\Git\cmd\tig.exe
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:23:00.060539Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:23:00.060736Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Program Files\Git\git-bash.exe
+C:\Program Files\Git\git-cmd.exe
+C:\Program Files\Git\LICENSE.txt
+C:\Program Files\Git\ReleaseNotes.html
+C:\Program Files\Git\unins000.dat
+C:\Program Files\Git\unins000.exe
+C:\Program Files\Git\unins000.msg
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:23:02.021813Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:23:02.022011Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Program Files\Git\usr\bin\addgnupghome
+C:\Program Files\Git\usr\bin\applygnupgdefaults
+C:\Program Files\Git\usr\bin\arch.exe
+C:\Program Files\Git\usr\bin\astextplain
+C:\Program Files\Git\usr\bin\awk.exe
+C:\Program Files\Git\usr\bin\b2sum.exe
+C:\Program Files\Git\usr\bin\backup
+C:\Program Files\Git\usr\bin\base32.exe
+C:\Program Files\Git\usr\bin\base64.exe
+C:\Program Files\Git\usr\bin\basename.exe
+C:\Program Files\Git\usr\bin\basenc.exe
+C:\Program Files\Git\usr\bin\bash.exe
+C:\Program Files\Git\usr\bin\bashbug
+C:\Program Files\Git\usr\bin\bunzip2.exe
+C:\Program Files\Git\usr\bin\bzcat.exe
+C:\Program Files\Git\usr\bin\bzcmp
+C:\Program Files\Git\usr\bin\bzdiff
+C:\Program Files\Git\usr\bin\bzegrep
+C:\Program Files\Git\usr\bin\bzfgrep
+C:\Program Files\Git\usr\bin\bzgrep
+C:\Program Files\Git\usr\bin\bzip2.exe
+C:\Program Files\Git\usr\bin\bzip2recover.exe
+C:\Program Files\Git\usr\bin\bzless
+C:\Program Files\Git\usr\bin\captoinfo.exe
+C:\Program Files\Git\usr\bin\cat.exe
+C:\Program Files\Git\usr\bin\chattr.exe
+C:\Program Files\Git\usr\bin\chcon.exe
+C:\Program Files\Git\usr\bin\chgrp.exe
+C:\Program Files\Git\usr\bin\chmod.exe
+C:\Program Files\Git\usr\bin\chown.exe
+C:\Program Files\Git\usr\bin\chroot.exe
+C:\Program Files\Git\usr\bin\cksum.exe
+C:\Program Files\Git\usr\bin\clear.exe
+C:\Program Files\Git\usr\bin\cmp.exe
+C:\Program Files\Git\usr\bin\column.exe
+C:\Program Files\Git\usr\bin\comm.exe
+C:\Program Files\Git\usr\bin\cp.exe
+C:\Program Files\Git\usr\bin\csplit.exe
+C:\Program Files\Git\usr\bin\cut.exe
+C:\Program Files\Git\usr\bin\cygcheck.exe
+C:\Program Files\Git\usr\bin\cygpath.exe
+C:\Program Files\Git\usr\bin\cygwin-console-helper.exe
+C:\Program Files\Git\usr\bin\c_rehash
+C:\Program Files\Git\usr\bin\d2u.exe
+C:\Program Files\Git\usr\bin\dash.exe
+C:\Program Files\Git\usr\bin\date.exe
+C:\Program Files\Git\usr\bin\dd.exe
+C:\Program Files\Git\usr\bin\df.exe
+C:\Program Files\Git\usr\bin\diff.exe
+C:\Program Files\Git\usr\bin\diff3.exe
+C:\Program Files\Git\usr\bin\dir.exe
+C:\Program Files\Git\usr\bin\dircolors.exe
+C:\Program Files\Git\usr\bin\dirmngr-client.exe
+C:\Program Files\Git\usr\bin\dirmngr.exe
+C:\Program Files\Git\usr\bin\dirname.exe
+C:\Program Files\Git\usr\bin\docx2txt
+C:\Program Files\Git\usr\bin\docx2txt.pl
+C:\Program Files\Git\usr\bin\dos2unix.exe
+C:\Program Files\Git\usr\bin\du.exe
+C:\Program Files\Git\usr\bin\dumpsexp.exe
+C:\Program Files\Git\usr\bin\echo.exe
+C:\Program Files\Git\usr\bin\egrep
+C:\Program Files\Git\usr\bin\env.exe
+C:\Program Files\Git\usr\bin\ex.exe
+C:\Program Files\Git\usr\bin\expand.exe
+C:\Program Files\Git\usr\bin\expr.exe
+C:\Program Files\Git\usr\bin\factor.exe
+C:\Program Files\Git\usr\bin\false.exe
+C:\Program Files\Git\usr\bin\fgrep
+C:\Program Files\Git\usr\bin\file.exe
+C:\Program Files\Git\usr\bin\find.exe
+C:\Program Files\Git\usr\bin\findssl.sh
+C:\Program Files\Git\usr\bin\fmt.exe
+C:\Program Files\Git\usr\bin\fold.exe
+C:\Program Files\Git\usr\bin\funzip.exe
+C:\Program Files\Git\usr\bin\gawk-5.0.0.exe
+C:\Program Files\Git\usr\bin\gawk.exe
+C:\Program Files\Git\usr\bin\gencat.exe
+C:\Program Files\Git\usr\bin\getconf.exe
+C:\Program Files\Git\usr\bin\getemojis
+C:\Program Files\Git\usr\bin\getfacl.exe
+C:\Program Files\Git\usr\bin\getflags
+C:\Program Files\Git\usr\bin\getopt.exe
+C:\Program Files\Git\usr\bin\git-flow
+C:\Program Files\Git\usr\bin\git-flow-bugfix
+C:\Program Files\Git\usr\bin\git-flow-config
+C:\Program Files\Git\usr\bin\git-flow-feature
+C:\Program Files\Git\usr\bin\git-flow-hotfix
+C:\Program Files\Git\usr\bin\git-flow-init
+C:\Program Files\Git\usr\bin\git-flow-log
+C:\Program Files\Git\usr\bin\git-flow-release
+C:\Program Files\Git\usr\bin\git-flow-support
+C:\Program Files\Git\usr\bin\git-flow-version
+C:\Program Files\Git\usr\bin\gitflow-common
+C:\Program Files\Git\usr\bin\gitflow-shFlags
+C:\Program Files\Git\usr\bin\gkill.exe
+C:\Program Files\Git\usr\bin\gmondump.exe
+C:\Program Files\Git\usr\bin\gpg-agent.exe
+C:\Program Files\Git\usr\bin\gpg-card.exe
+C:\Program Files\Git\usr\bin\gpg-connect-agent.exe
+C:\Program Files\Git\usr\bin\gpg-error.exe
+C:\Program Files\Git\usr\bin\gpg-wks-client.exe
+C:\Program Files\Git\usr\bin\gpg-wks-server.exe
+C:\Program Files\Git\usr\bin\gpg.exe
+C:\Program Files\Git\usr\bin\gpgconf.exe
+C:\Program Files\Git\usr\bin\gpgparsemail.exe
+C:\Program Files\Git\usr\bin\gpgscm.exe
+C:\Program Files\Git\usr\bin\gpgsm.exe
+C:\Program Files\Git\usr\bin\gpgsplit.exe
+C:\Program Files\Git\usr\bin\gpgtar.exe
+C:\Program Files\Git\usr\bin\gpgv.exe
+C:\Program Files\Git\usr\bin\grep.exe
+C:\Program Files\Git\usr\bin\groups.exe
+C:\Program Files\Git\usr\bin\gunzip
+C:\Program Files\Git\usr\bin\gzexe
+C:\Program Files\Git\usr\bin\gzip.exe
+C:\Program Files\Git\usr\bin\head.exe
+C:\Program Files\Git\usr\bin\hmac256.exe
+C:\Program Files\Git\usr\bin\hostid.exe
+C:\Program Files\Git\usr\bin\hostname.exe
+C:\Program Files\Git\usr\bin\iconv.exe
+C:\Program Files\Git\usr\bin\id.exe
+C:\Program Files\Git\usr\bin\infocmp.exe
+C:\Program Files\Git\usr\bin\infotocap.exe
+C:\Program Files\Git\usr\bin\install.exe
+C:\Program Files\Git\usr\bin\join.exe
+C:\Program Files\Git\usr\bin\kbxutil.exe
+C:\Program Files\Git\usr\bin\kill.exe
+C:\Program Files\Git\usr\bin\ldd.exe
+C:\Program Files\Git\usr\bin\ldh.exe
+C:\Program Files\Git\usr\bin\less.exe
+C:\Program Files\Git\usr\bin\lessecho.exe
+C:\Program Files\Git\usr\bin\lesskey.exe
+C:\Program Files\Git\usr\bin\link.exe
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:23:05.806624Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:23:05.806814Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Program Files\Git\usr\bin\ln.exe
+C:\Program Files\Git\usr\bin\locale.exe
+C:\Program Files\Git\usr\bin\locate.exe
+C:\Program Files\Git\usr\bin\logname.exe
+C:\Program Files\Git\usr\bin\ls.exe
+C:\Program Files\Git\usr\bin\lsattr.exe
+C:\Program Files\Git\usr\bin\mac2unix.exe
+C:\Program Files\Git\usr\bin\md5sum.exe
+C:\Program Files\Git\usr\bin\minidumper.exe
+C:\Program Files\Git\usr\bin\mintheme
+C:\Program Files\Git\usr\bin\mintty.exe
+C:\Program Files\Git\usr\bin\mkdir.exe
+C:\Program Files\Git\usr\bin\mkfifo.exe
+C:\Program Files\Git\usr\bin\mkgroup.exe
+C:\Program Files\Git\usr\bin\mknod.exe
+C:\Program Files\Git\usr\bin\mkpasswd.exe
+C:\Program Files\Git\usr\bin\mktemp.exe
+C:\Program Files\Git\usr\bin\mount.exe
+C:\Program Files\Git\usr\bin\mpicalc.exe
+C:\Program Files\Git\usr\bin\msys-2.0.dll
+C:\Program Files\Git\usr\bin\msys-apr-1-0.dll
+C:\Program Files\Git\usr\bin\msys-aprutil-1-0.dll
+C:\Program Files\Git\usr\bin\msys-asn1-8.dll
+C:\Program Files\Git\usr\bin\msys-assuan-0.dll
+C:\Program Files\Git\usr\bin\msys-bz2-1.dll
+C:\Program Files\Git\usr\bin\msys-cbor-0.11.dll
+C:\Program Files\Git\usr\bin\msys-com_err-1.dll
+C:\Program Files\Git\usr\bin\msys-crypt-0.dll
+C:\Program Files\Git\usr\bin\msys-crypt-2.dll
+C:\Program Files\Git\usr\bin\msys-crypto-3.dll
+C:\Program Files\Git\usr\bin\msys-edit-0.dll
+C:\Program Files\Git\usr\bin\msys-expat-1.dll
+C:\Program Files\Git\usr\bin\msys-ffi-8.dll
+C:\Program Files\Git\usr\bin\msys-fido2-1.dll
+C:\Program Files\Git\usr\bin\msys-gcc_s-seh-1.dll
+C:\Program Files\Git\usr\bin\msys-gcrypt-20.dll
+C:\Program Files\Git\usr\bin\msys-gmp-10.dll
+C:\Program Files\Git\usr\bin\msys-gnutls-30.dll
+C:\Program Files\Git\usr\bin\msys-gpg-error-0.dll
+C:\Program Files\Git\usr\bin\msys-gssapi-3.dll
+C:\Program Files\Git\usr\bin\msys-hcrypto-4.dll
+C:\Program Files\Git\usr\bin\msys-heimbase-1.dll
+C:\Program Files\Git\usr\bin\msys-heimntlm-0.dll
+C:\Program Files\Git\usr\bin\msys-hogweed-6.dll
+C:\Program Files\Git\usr\bin\msys-hx509-5.dll
+C:\Program Files\Git\usr\bin\msys-iconv-2.dll
+C:\Program Files\Git\usr\bin\msys-idn2-0.dll
+C:\Program Files\Git\usr\bin\msys-intl-8.dll
+C:\Program Files\Git\usr\bin\msys-krb5-26.dll
+C:\Program Files\Git\usr\bin\msys-ksba-8.dll
+C:\Program Files\Git\usr\bin\msys-lz4-1.dll
+C:\Program Files\Git\usr\bin\msys-lzma-5.dll
+C:\Program Files\Git\usr\bin\msys-magic-1.dll
+C:\Program Files\Git\usr\bin\msys-mpfr-6.dll
+C:\Program Files\Git\usr\bin\msys-ncursesw6.dll
+C:\Program Files\Git\usr\bin\msys-nettle-8.dll
+C:\Program Files\Git\usr\bin\msys-npth-0.dll
+C:\Program Files\Git\usr\bin\msys-p11-kit-0.dll
+C:\Program Files\Git\usr\bin\msys-pcre-1.dll
+C:\Program Files\Git\usr\bin\msys-pcre2-8-0.dll
+C:\Program Files\Git\usr\bin\msys-pcre2-posix-3.dll
+C:\Program Files\Git\usr\bin\msys-perl5_38.dll
+C:\Program Files\Git\usr\bin\msys-psl-5.dll
+C:\Program Files\Git\usr\bin\msys-readline8.dll
+C:\Program Files\Git\usr\bin\msys-roken-18.dll
+C:\Program Files\Git\usr\bin\msys-sasl2-3.dll
+C:\Program Files\Git\usr\bin\msys-serf-1-0.dll
+C:\Program Files\Git\usr\bin\msys-smartcols-1.dll
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:24:39.138234Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:39.138411Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\jacoco-0.8.13-20250120.104106-149.zip
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\Q2 review.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\SOEN 345 W25 Course Outline .docx.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:24:43.499996Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:43.500337Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\whole class ppts.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 10] Continuous testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] A_B Testing and Hypotheses.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 11] FeatureToggles.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzz Testing and Chaos Monkey.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 12] Fuzzing with radamsa.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1] SOEN 345 course admin.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 1]intro to testing_2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]controlflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 2]dataflow.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] GitBisectTesting.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week 8] Testing during development.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[Week 9] Introducing continuous integration.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week3]mutation.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] TDD.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week4] testpattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] mocking.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week5] testantipattern.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox1.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox2.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week6] blackbox3.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\ppts\[week7] performanceTest.pdf
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:24:44.769553Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:46.587232Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:46.767291Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:48.420117Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:48.420381Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\comp_results.txt
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\jacoco-part-a.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\jacoco.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\oclover.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\oclover_dashboard.png
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\q3.xml
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.aux
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.fdb_latexmk
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.fls
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.log
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.out
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.synctex.gz
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\report.tex
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\SOEN 345 T1_ Test coverage.pdf
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\TUT_1_Tymofiy_Kovalenko_40093918.zip
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8.zip
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
+  2025-03-10T17:24:50.787284Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:24:53.507494Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:25:02.399281Z ERROR yazi_plugin::utils::log: "Spawn `C:\\Program Files\\Git\\usr\\bin` command returns 5"
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-plugin-0.3.3\src\utils\log.rs:20
+
+  2025-03-10T17:25:02.399411Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\build.properties
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\build.xml
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\KEYS
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\LICENSE
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\NOTICE
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\pom.xml
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\README
+C:\Users\timam\Personal\University\multiclassrepo\Winter 2025\SOEN 345\tut\xmlgraphics-commons-2.8\xmlgraphics-commons-pom-template.pom
+    at C:\Users\timam\.cargo\registry\src\index.crates.io-6f17d22bba15001f\yazi-scheduler-0.3.3\src\prework\prework.rs:49
+
