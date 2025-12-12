@@ -1,0 +1,97 @@
+"$schema" = "https://yazi-rs.github.io/schemas/yazi.json"
+
+[mgr]
+show_hidden = false
+ratio          = [ 1, 4, 3 ]
+sort_by        = "alphabetical"
+sort_sensitive = false
+sort_reverse   = false
+sort_dir_first = true
+sort_translit  = false
+linemode       = "size_and_mtime"
+show_symlink   = true
+scrolloff      = 5
+mouse_events   = [ "click", "scroll" ]
+title_format   = "Yazi: {cwd}"
+
+[opener]
+extract = [
+	{ run = 'ouch d -y %*', desc = "Extract here with ouch", for = "windows" },
+	{ run = 'ouch d -y "$@"', desc = "Extract here with ouch", for = "unix" },
+]
+
+[[plugin.prepend_previewers]]
+mime = "application/{*zip,tar,bzip2,7z*,rar,xz,zstd,java-archive}"
+run  = "ouch"
+
+[[plugin.prepend_fetchers]]
+id   = "git"
+name = "*"
+run  = "git"
+
+[[plugin.prepend_fetchers]]
+id   = "git"
+name = "*/"
+run  = "git"
+
+[[plugin.prepend_preloaders]]
+name = "*.3mf"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.obj"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.pts"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.ply"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.stl"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.step"
+run  = "f3d-preview"
+
+[[plugin.prepend_preloaders]]
+name = "*.stp"
+run  = "f3d-preview"
+
+
+# --- PREVIEWERS ---
+[[plugin.prepend_previewers]]
+mime = "application/bittorrent"
+run = "torrent-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.3mf"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.obj"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.pts"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.ply"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.stl"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.step"
+run  = "f3d-preview"
+
+[[plugin.prepend_previewers]]
+name = "*.stp"
+run  = "f3d-preview"
