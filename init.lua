@@ -20,11 +20,6 @@ function Linemode:size_and_mtime()
 	return string.format("%s %s", size and ya.readable_size(size) or "-", time)
 end
 
-require("copy-file-contents"):setup({
-	append_char = "\n",
-	notification = true,
-})
-
 
 require("starship"):setup({
     -- Hide flags (such as filter, find and search). This can be beneficial for starship themes

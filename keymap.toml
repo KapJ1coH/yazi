@@ -8,11 +8,14 @@ on   = "<C-d>"
 run  = "plugin diff"
 desc = "Diff the selected with the hovered file"
 
+# [[mgr.prepend_keymap]]
+# on = "<C-y>"
+# # run = [ 'shell -- for path in "$@"; do echo "file://$path"; done | wl-copy -t text/uri-list', "yank" ]
+# run = ["plugin wl-clipboard"]
+# desc = "Yank file to the clipboard"
 [[mgr.prepend_keymap]]
-on = "<C-y>"
-# run = [ 'shell -- for path in "$@"; do echo "file://$path"; done | wl-copy -t text/uri-list', "yank" ]
-run = ["plugin wl-clipboard"]
-desc = "Yank file to the clipboard"
+on  = "y"
+run = [ 'shell -- for path in %s; do echo "file://$path"; done | wl-copy -t text/uri-list', "yank" ]
 
 [[mgr.prepend_keymap]]
 on = [ "g", "r" ]
@@ -30,13 +33,13 @@ run  = "plugin kdeconnect-send"
 desc = "Send selected files via KDE Connect"
 
 [[mgr.prepend_keymap]]
-on = [ ".", "s" ]
+on = [ "w", "s" ]
 run  = "plugin what-size"
 desc = "Calc size of selection or cwd"
 
 [[mgr.prepend_keymap]]
-on = ["c", "y"]
-run = ["plugin copy-file-contents"]
+on  = ["c", "y"]
+run = [ 'shell -- wl-copy < "$1"', "yank" ]
 desc = "Copy contents of file"
 
 [[mgr.prepend_keymap]]
