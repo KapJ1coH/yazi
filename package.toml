@@ -63,6 +63,11 @@ use = "Lil-Dank/lazygit"
 rev = "0e56060"
 hash = "ab2e66065a94cca4886b303518e44bd8"
 
+[[plugin.deps]]
+use = "boydaihungst/pref-by-location"
+rev = "a2fbb05"
+hash = "b4e378df653fa211d22ed04d3c8c1c0a"
+
 [[flavor.deps]]
 use = "dangooddd/kanagawa"
 rev = "04985d1"
