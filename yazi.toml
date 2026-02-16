@@ -20,78 +20,27 @@ extract = [
 	{ run = 'ouch d -y "$@"', desc = "Extract here with ouch", for = "unix" },
 ]
 
-[[plugin.prepend_previewers]]
-mime = "application/{*zip,tar,bzip2,7z*,rar,xz,zstd,java-archive}"
-run  = "ouch"
+[open]
+prepend_rules = [
+    { url = "*.{zip,tar,gz,xz,rar,7z,bz2,zst}", use = "extract" },
+]
 
-[[plugin.prepend_fetchers]]
-id   = "git"
-name = "*"
-run  = "git"
+[plugin]
+prepend_fetchers = [
+    # Schema requires 'url' + 'run'. 'prio' is optional but good to have.
+    { id = "git", url = "*",  run = "git", prio = "normal" },
+    { id = "git", url = "*/", run = "git", prio = "normal" },
+]
 
-[[plugin.prepend_fetchers]]
-id   = "git"
-name = "*/"
-run  = "git"
+prepend_previewers = [
+    # Schema requires 'mime' OR 'url'
+    { mime = "application/bittorrent", run = "torrent-preview" },
+    # Changed 'name' to 'url'
+    { url = "*.{3mf,obj,pts,ply,stl,step,stp}", run = "f3d-preview" },
+]
 
-[[plugin.prepend_preloaders]]
-name = "*.3mf"
-run  = "f3d-preview"
+prepend_preloaders = [
+    # Changed 'name' to 'url'
+    { url = "*.{3mf,obj,pts,ply,stl,step,stp}", run = "f3d-preview" },
+]
 
-[[plugin.prepend_preloaders]]
-name = "*.obj"
-run  = "f3d-preview"
-
-[[plugin.prepend_preloaders]]
-name = "*.pts"
-run  = "f3d-preview"
-
-[[plugin.prepend_preloaders]]
-name = "*.ply"
-run  = "f3d-preview"
-
-[[plugin.prepend_preloaders]]
-name = "*.stl"
-run  = "f3d-preview"
-
-[[plugin.prepend_preloaders]]
-name = "*.step"
-run  = "f3d-preview"
-
-[[plugin.prepend_preloaders]]
-name = "*.stp"
-run  = "f3d-preview"
-
-
-# --- PREVIEWERS ---
-[[plugin.prepend_previewers]]
-mime = "application/bittorrent"
-run = "torrent-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.3mf"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.obj"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.pts"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.ply"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.stl"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.step"
-run  = "f3d-preview"
-
-[[plugin.prepend_previewers]]
-name = "*.stp"
-run  = "f3d-preview"

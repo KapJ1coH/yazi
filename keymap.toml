@@ -3,7 +3,7 @@ prepend_keymap = [
     # --- Plugins & Tools ---
     { on = "p",       run = "plugin smart-paste", desc = "Paste into the hovered directory or CWD" },
     { on = "<C-d>",   run = "plugin diff",        desc = "Diff the selected with the hovered file" },
-    { on = "y",       run = 'shell -- for path in %s; do echo "file://$path"; done | wl-copy -t text/uri-list', desc = "Yank file to clipboard (URI)" },
+    { on = "y",       run = ['shell -- for path in %s; do echo "file://$path"; done | wl-copy -t text/uri-list', 'yank'], desc = "Yank file to clipboard (URI)" },
     { on = ["c", "y"], run = [ 'shell -- wl-copy < "$1"', "yank" ], desc = "Copy contents of file" },
     { on = ["c", "p"], run = "plugin save-clipboard-to-file",     desc = "Paste clipboard content to file" },
     { on = "C",       run = "plugin ouch",       desc = "Compress with ouch" },
