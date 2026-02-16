@@ -41,4 +41,5 @@ prepend_keymap = [
     { on = [ ",", "s" ], run = [ "sort size --reverse=no", "linemode size", "plugin pref-by-location -- save" ],   desc = "Sort by size" },
     { on = [ ",", "S" ], run = [ "sort size --reverse", "linemode size", "plugin pref-by-location -- save" ],      desc = "Sort by size (reverse)" },
     { on = [ ",", "r" ], run = [ "sort random --reverse=no", "plugin pref-by-location -- save" ],                  desc = "Sort randomly" },
+    { on = [ "R"      ], run = [ "rename --empty=stem --cursor=start" ],                                           desc = "Rename: clear stem, keep extension" },
 ]
