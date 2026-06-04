@@ -12,7 +12,9 @@ linemode       = "size_and_mtime"
 show_symlink   = true
 scrolloff      = 5
 mouse_events   = [ "click", "scroll" ]
-title_format   = "Yazi: {cwd}"
+
+[preview]
+image_delay = 50
 
 [opener]
 extract = [
