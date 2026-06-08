@@ -1,4 +1,4 @@
-"$schema" = "https://yazi-rs.github.io/schemas/yazi.json"
+#:schema https://yazi-rs.github.io/schemas/yazi.json
 
 [mgr]
 show_hidden = false
@@ -11,7 +11,7 @@ sort_translit  = false
 linemode       = "size_and_mtime"
 show_symlink   = true
 scrolloff      = 5
-mouse_events   = [ "click", "scroll" ]
+mouse_events   = [ "click", "scroll", "drag","move" ]
 
 [preview]
 image_delay = 50
@@ -30,8 +30,8 @@ prepend_rules = [
 [plugin]
 prepend_fetchers = [
     # Schema requires 'url' + 'run'. 'prio' is optional but good to have.
-    { id = "git", url = "*",  run = "git", prio = "normal" },
-    { id = "git", url = "*/", run = "git", prio = "normal" },
+    { group = "git", url = "*",  run = "git", prio = "normal" },
+    { group = "git", url = "*/", run = "git", prio = "normal" },
 ]
 
 prepend_previewers = [
